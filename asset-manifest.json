@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hostelFeedback/static/css/main.ed72874c.css",
+    "main.js": "/hostelFeedback/static/js/main.5a923bab.js",
+    "static/media/groupPhoto.jpeg": "/hostelFeedback/static/media/groupPhoto.e4cb3316ba97939d142d.jpeg",
+    "static/media/profilePhoto.jpg": "/hostelFeedback/static/media/profilePhoto.fc748b6d25818629e466.jpg",
+    "static/media/linkedInLogo.png": "/hostelFeedback/static/media/linkedInLogo.4826df0645617e43d019.png",
+    "static/media/githubLogo.png": "/hostelFeedback/static/media/githubLogo.c8007a9fb185cb152ee6.png",
+    "index.html": "/hostelFeedback/index.html",
+    "main.ed72874c.css.map": "/hostelFeedback/static/css/main.ed72874c.css.map",
+    "main.5a923bab.js.map": "/hostelFeedback/static/js/main.5a923bab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed72874c.css",
+    "static/js/main.5a923bab.js"
+  ]
+}
